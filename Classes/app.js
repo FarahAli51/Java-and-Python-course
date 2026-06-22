@@ -26,3 +26,7 @@ console.log(num2);
 console.log(++num3); //pre increment answer is 21 and num3 becomes 21
 console.log(num4);
 
+var num5 =15;
+console.log(num5--);
+console.log(num5);
+
